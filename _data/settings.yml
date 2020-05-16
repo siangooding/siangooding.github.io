@@ -10,7 +10,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'About'
+    - title: 'About Me'
       url: '/'
     - title: 'Blog posts'
       url: '/latest'

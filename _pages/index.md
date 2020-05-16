@@ -1,12 +1,12 @@
 ---
 title: About Me
-subtitle: Phd student at the Univerity of Cambridge studying NLP
+subtitle: PhD student at the Univerity of Cambridge studying NLP
 description: A Computer Science Phd student at the Univerity of Cambridge
 featured_image: /images/me_rotated.jpg
 baseurl: https://siangooding.github.io
 ---
 
-I am a first year PhD student at the University of Cambridge <a href="https://www.cl.cam.ac.uk">Computer Laboratory</a> supervised by <a href="https://scholar.google.com/citations?hl=en&user=qNP6lAwAAAAJ">Professor Ted Briscoe</a>. My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on text simplification -- the study of how we can automatically adapt text to suit the needs of different audiences. 
+I am a first year PhD student at the University of Cambridge <a href="https://www.cl.cam.ac.uk">Computer Laboratory</a> supervised by <a href="https://scholar.google.com/citations?hl=en&user=qNP6lAwAAAAJ">Professor Ted Briscoe</a>. My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on text simplification -- the study of how to automatically adapt text to suit the needs of different audiences. 
 
 I am a member of <a href="https://www.jesus.cam.ac.uk"> Jesus College</a> and a recipient of the <a href ="https://www.caths.cam.ac.uk/harding">Harding Distinguished Postgraduate scholarship</a>. 
 

@@ -1,5 +1,9 @@
 <header class="header">
 
+	{% if site.google_analytics and jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
+
 	<div class="header-image header-image--on" style="background-image: url({{ page.featured_image | relative_url }});"></div>
 	<div class="header-image"></div>
 
@@ -7,10 +11,7 @@
 
 	<div class="header__content">
 
-		{% if site.google_analytics and jekyll.environment == 'production' %}
-		{% include analytics.html %}
-		{% endif %}
-
+		
 		{% if site.data.settings.header_settings.logo_image %}
 		<a href="{{ site.baseurl }}/" class="header__logo">
 			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">

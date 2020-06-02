@@ -1,6 +1,5 @@
 ---
 title: Research
-subtitle: Research
 description: Sian Gooding Research
 featured_image: /images/cactus_rotated.jpg
 baseurl: https://siangooding.github.io

@@ -1,6 +1,5 @@
 ---
 title: CV
-subtitle: My CV
 description: My CV
 featured_image: /images/cactus_rotated.jpg
 ---

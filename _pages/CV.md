@@ -1,7 +1,7 @@
 ---
 title: CV
-subtitle: Sian Gooding's CV
-description: Sian Gooding's CV
+subtitle: My CV
+description: My CV
 featured_image: /images/cactus_rotated.jpg
 ---
 

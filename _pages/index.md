@@ -11,9 +11,9 @@ I am a PhD student at the University of Cambridge <a href="https://www.cl.cam.ac
 I am a member of <a href="https://www.jesus.cam.ac.uk"> Jesus College</a> and a recipient of the <a href ="https://www.caths.cam.ac.uk/harding">Harding Distinguished Postgraduate scholarship</a>. 
 
 ### Latest News 
++ I am microblogging for ACL, focusing on Text Summarization and Text Simplification. Check out my tweets <a href="https://twitter.com/SianGooding">here</a>!
++ Started my 2020 summer internship with the Cerebra team at Google Brain
 + Awarded <a href="https://twitter.com/SianGooding/status/1232797416635719680">Cambridge Language Sciences Incubator Fund</a> to investigate how eye movement relates to text complexity.
-+ Two papers accepted at LREC 2020: (1) <a href="http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.545.pdf">Detecting Multiword Expression Type Helps Lexical Complexity Assessment</a> (2) <a href="http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.730.pdf">SeCoDa: Sense Complexity Dataset</a>
-+ Paper accepted for the <a href="https://readi-lrec2020.wixsite.com/readi-lrec2020">READI workshop</a>, to be held at LREC 2020: Incorporating Multiword Expressions in Phrase Complexity
 
 ### Contact 
 You can reach me via the [contact form]({{ 'contact.html' | site.relativeurl }}). Alternatively, my email is shg36[at]cam.ac.uk, other social accounts are linked in the menu. 

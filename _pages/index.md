@@ -10,13 +10,8 @@ I am a PhD student at the University of Cambridge <a href="https://www.cl.cam.ac
 
 I am a member of <a href="https://www.jesus.cam.ac.uk"> Jesus College</a> and a recipient of the <a href ="https://www.caths.cam.ac.uk/harding">Harding Distinguished Postgraduate scholarship</a>. 
 
-### Latest News 
-+ Recieved an <a href="https://twitter.com/SianGooding/status/1281912395783380994">outstanding reviewer award</a> for ACL 2020
-+ Started my 2020 summer internship with the Cerebra team at Google Brain
-+ Awarded <a href="https://twitter.com/SianGooding/status/1232797416635719680">Cambridge Language Sciences Incubator Fund</a> to investigate how eye movement relates to text complexity
-
 ### Contact 
-You can reach me via the [contact form]({{ 'contact.html' | site.relativeurl }}). Alternatively, my email is shg36[at]cam.ac.uk, other social accounts are linked in the menu. 
+My email is shg36[at]cam.ac.uk and other social accounts are linked in the menu. 
 
 
 

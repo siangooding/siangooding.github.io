@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: PhD student at the Univerity of Cambridge studying NLP
-description: A Computer Science Phd student at the Univerity of Cambridge
+subtitle: PhD student at the University of Cambridge studying NLP
+description: A Computer Science PhD student at the University of Cambridge
 featured_image: /images/me_rotated.jpg
 baseurl: https://siangooding.github.io
 ---

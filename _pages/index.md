@@ -18,7 +18,6 @@ My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on readabili
 ### Selected Publications
 [See all publications]({{ 'research.html' | site.relativeurl }})
 {% include recent_publications.html %}
-
 ### Selected Talks
 [See all talks]({{ 'research.html' | site.relativeurl }})
 {% include selected_talks.html %}

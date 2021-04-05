@@ -16,11 +16,11 @@ My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on readabili
 {% include media.html %}
 
 ### Selected Publications
-See all publications [here]({{ 'research.html' | site.relativeurl }})
+[See all publications]({{ 'research.html' | site.relativeurl }})
 {% include recent_publications.html %}
 
 ### Selected Talks
-See all talks [here]({{ 'cv.html' | site.relativeurl }})
+[See all talks]({{ 'cv.html' | site.relativeurl }})
 {% include selected_talks.html %}
 
 

@@ -7,11 +7,11 @@ baseurl: https://siangooding.github.io
 
 My PhD research is on <i>text readability and simplification</i> -- the study of how to automatically adapt text to suit the needs of different audiences. 
 
-### Publications
+## Publications
 
 
 {% include publications.html %}
 
-### Invited Talks
+## Invited Talks
 
 {% include talks.html %}

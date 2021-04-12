@@ -9,7 +9,7 @@ baseurl: https://siangooding.github.io
 
 I am a PhD student at the University of Cambridge <a href="https://www.cl.cam.ac.uk">Computer Laboratory</a> within the <a href="https://www.cl.cam.ac.uk/research/nl/">Natural Language and Information Processing group</a>. 
 
-My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on readability and text simplification -- the study of how to automatically adapt text to suit the needs of different audiences. For researchers who are interested in this topic please join the <a href="https://join.slack.com/t/textsimplification/shared_invite/zt-9vypl5uq-M7ViTMsnFyGkcuyw_zPOAQ">TS research slack group</a>!
+My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on readability and text simplification -- the study of how to automatically adapt text to suit the needs of different audiences. For researchers who are interested in this topic please join the <a href="https://join.slack.com/t/textsimplification/shared_invite/zt-9vypl5uq-M7ViTMsnFyGkcuyw_zPOAQ">TS research slack group</a>! We have also started a text simplification reading group and you can subscribe to our Google calendar here: {% include cal.html %}
 
 ### Media
 

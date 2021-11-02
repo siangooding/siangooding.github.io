@@ -3,7 +3,7 @@ title: MPhil Projects
 featured_image: /images/home.jpg
 ---
 
-<h2>Curriculum learning for text simplfication</h2>
+<h2>Curriculum learning for text simplification</h2>
 
 - <i>Proposer</i>: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
 - <i>Supervisors</i>: Sian Gooding, Ted Briscoe
@@ -24,7 +24,7 @@ Text simplification is aimed at reducing the reading and grammatical complexity 
 
 Reading comprehension is based on a range of reader-related, text-related, and situational factors. It has been defined as the ability to process text, understand its meaning, and integrate the meaning with what the reader already knows. Being able to judge whether a reader would comprehend a given text requires knowledge of their background and level of proficiency. Techniques have been explored that measure how an individual interacts with text whilst reading to predict their proficiency level. For instance, features from eye tracking have been used to predict the language proficiency of readers [4]. 
 
-On device reading has predominantly taken the place of traditional formats. Such devices allow access to implicit user feedback by measuring how a user interacts with the text they read. A key advantage to implicit feedback techniques is that they can unobtrusively obtain information by measuring user interactions with a system. In this project, you will use a <a href = "https://github.com/siangooding/readability_scroll">dataset that has been collected in collaboration with Google</a>, containing implicit reading interactions of participants whilst reading [5][6]. Using features extracted from text interactions, the aim is to predict the comprehension score and proficiency of readers.
+On-device reading has predominantly taken the place of traditional formats. Such devices allow access to implicit user feedback by measuring how a user interacts with the text they read. A key advantage to implicit feedback techniques is that they can unobtrusively obtain information by measuring user interactions with a system. In this project, you will use a <a href = "https://github.com/siangooding/readability_scroll">dataset that has been collected in collaboration with Google</a>, containing implicit reading interactions of participants whilst reading [5][6]. Using features extracted from text interactions, the aim is to predict the comprehension score and proficiency of readers.
 
 
 
@@ -36,3 +36,4 @@ On device reading has predominantly taken the place of traditional formats. Such
 [4] <a href="https://arxiv.org/pdf/1804.07329.pdf">Assessing Language Proficiency from Eye Movements in Reading (Berzak et al., 2018)</a><br>
 [5]  <a href="https://arxiv.org/pdf/2105.06354.pdf">Predicting Text Readability from Scrolling Interactions (Gooding et al., 2021)</a><br>
 [6] <a href="https://ai.googleblog.com">Google AI Blog (Gooding, 2021)</a>
+

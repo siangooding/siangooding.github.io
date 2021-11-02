@@ -5,10 +5,10 @@ featured_image: /images/home.jpg
 
 <h2>Curriculum learning for text simplfication</h2>
 
-- Proposer: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
-- Supervisors: Sian Gooding, Ted Briscoe
-- Special Resources: Access to an NLIP machine/server + Access to a GPU
-- Areas: Machine translation, Curriculum learning, Text simplification 
+- <i>Proposer</i>: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
+- <i>Supervisors</i>: Sian Gooding, Ted Briscoe
+- <i>Special Resources</i>: Access to an NLIP machine/server + Access to a GPU
+- <i>Areas</i>: Machine translation, Curriculum learning, Text simplification 
 
 Humans and animals learn much more effectively when the examples are not randomly presented but organized in a meaningful way. For instance, by introducing gradually more concepts, and increasingly more complex ones. [1] This has been referred to as <i>curriculum learning</i>. The use of a curriculum learning framework applied to neural machine translation (NMT) has been shown to reduce training time and result in overall better performance [2]. 
 
@@ -17,10 +17,10 @@ Text simplification is aimed at reducing the reading and grammatical complexity 
 
 ## Proficiency prediction from reading behaviour 
 
-- Proposer: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
-- Supervisors: Sian Gooding, Ted Briscoe
-- Special Resources: Access to an NLIP machine/server + Access to a GPU
-- Areas: Reading comprehension, Interaction, AI in edtech
+- <i>Proposer</i>: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
+- <i>Supervisors</i>: Sian Gooding, Ted Briscoe
+- <i>Special Resources</i>: Access to an NLIP machine/server + Access to a GPU
+- <i>Areas</i>: Reading comprehension, Interaction, AI in edtech
 
 Reading comprehension is based on a range of reader-related, text-related, and situational factors. It has been defined as the ability to process text, understand its meaning, and integrate the meaning with what the reader already knows. Being able to judge whether a reader would comprehend a given text requires knowledge of their background and level of proficiency. Techniques have been explored that measure how an individual interacts with text whilst reading to predict their proficiency level. For instance, features from eye tracking have been used to predict the language proficiency of readers [4]. 
 

@@ -1,6 +1,6 @@
 ---
 title: MPhil Projects
-featured_image: /demo/home.jpg
+featured_image: /images/home.jpg
 ---
 
 <h2>Curriculum learning for text simplfication</h2>
@@ -19,10 +19,10 @@ On device reading has predominantly taken the place of traditional formats. Such
 
 
 ### Sources
-[1] <a href ="https://dl.acm.org/doi/pdf/10.1145/1553374.1553380?casa_token=YNHzxTxY7_AAAAAA:J-BmBwUXzD9VVpteUvFRRdWsa-BYVRoZ_8lhn8Wvnj2Om07XLWkhPh3DLNUpGHLrXL5979wV88vD">Curriculum learning (Bengio et al, 2009)</a> <br>
-[2] <a href = "https://arxiv.org/pdf/1903.09848.pdf">Competence-based Curriculum Learning for Neural Machine Translation (Plantanious et al, 2019)</a> <br>
-[3] <a href="https://arxiv.org/pdf/2008.08612.pdf">A Survey on Text Simplification (Sikka ad Mango., 2020)</a>
+[1] <a href ="https://dl.acm.org/doi/pdf/10.1145/1553374.1553380?casa_token=YNHzxTxY7_AAAAAA:J-BmBwUXzD9VVpteUvFRRdWsa-BYVRoZ_8lhn8Wvnj2Om07XLWkhPh3DLNUpGHLrXL5979wV88vD">Curriculum learning (Bengio et al., 2009)</a> <br>
+[2] <a href = "https://arxiv.org/pdf/1903.09848.pdf">Competence-based Curriculum Learning for Neural Machine Translation (Plantanious et al., 2019)</a> <br>
+[3] <a href="https://arxiv.org/pdf/2008.08612.pdf">A Survey on Text Simplification (Sikka and Mango, 2020)</a>
 
 [4] <a href="https://arxiv.org/pdf/1804.07329.pdf">Assessing Language Proficiency from Eye Movements in Reading (Berzak et al., 2018)</a>
 [5]  <a href="https://arxiv.org/pdf/2105.06354.pdf">Predicting Text Readability from Scrolling Interactions (Gooding et al., 2021)</a>
-[6] <a href="https://ai.googleblog.com">Google AI Blog (Sian Gooding., 2021)</a>
+[6] <a href="https://ai.googleblog.com">Google AI Blog (Gooding, 2021)</a>

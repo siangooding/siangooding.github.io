@@ -5,12 +5,22 @@ featured_image: /images/me_rotated.jpg
 
 <h2>Curriculum learning for text simplfication</h2>
 
+- Proposer: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
+- Supervisors: Sian Gooding, Ted Briscoe
+- Special Resources: Access to an NLIP machine/server + Access to a GPU
+- Areas: Machine translation, Curriculum learning, Text simplification 
+
 Humans and animals learn much more effectively when the examples are not randomly presented but organized in a meaningful way. For instance, by introducing gradually more concepts, and increasingly more complex ones. [1] This has been referred to as <i>curriculum learning</i>. The use of a curriculum learning framework applied to neural machine translation (NMT) has been shown to reduce training time and result in overall better performance [2]. 
 
 Text simplification is aimed at reducing the reading and grammatical complexity of text whilst retaining the meaning. NMT approaches have dominated the text simplification field over the past few years [3]. In this setting, the aim is to 'translate' complex text to simpler text using traditional translation architectures. In this project, you will investigate whether curriculum learning can be used to improve an NMT system for text simplification. You will reimplement a neural translation system and experiment with how the ordering of training data impacts the model performance. 
 
 
 ## Proficiency prediction from reading behaviour 
+
+- Proposer: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
+- Supervisors: Sian Gooding, Ted Briscoe
+- Special Resources: Access to an NLIP machine/server + Access to a GPU
+- Areas: Reading comprehension, Interaction, AI in edtech
 
 Reading comprehension is based on a range of reader-related, text-related, and situational factors. It has been defined as the ability to process text, understand its meaning, and integrate the meaning with what the reader already knows. Being able to judge whether a reader would comprehend a given text requires knowledge of their background and level of proficiency. Techniques have been explored that measure how an individual interacts with text whilst reading to predict their proficiency level. For instance, features from eye tracking have been used to predict the language proficiency of readers [4]. 
 

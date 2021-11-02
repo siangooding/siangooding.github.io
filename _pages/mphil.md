@@ -3,7 +3,7 @@ title: MPhil Projects
 featured_image: /images/home.jpg
 ---
 
-<B>Note: please contact (shg36@cam.ac.uk) to discuss the project before applying</b>
+<B>Note: please contact (shg36@cam.ac.uk) to discuss the project before applying.</b>
 
 <h2>Curriculum learning for text simplification</h2>
 

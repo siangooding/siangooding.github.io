@@ -3,7 +3,7 @@ title: MPhil Projects
 featured_image: /demo/home.jpg
 ---
 
-## Curriculum learning for text simplfication 
+Curriculum learning for text simplfication 
 
 Humans and animals learn much more effectively when the examples are not randomly presented but organized in a meaningful way. For instance, by introducing gradually more concepts, and increasingly more complex ones. [1] This has been referred to as <i>curriculum learning</i>. The use of a curriculum learning framework applied to neural machine translation has been shown to reduce training time and result in overall better performance [2]. 
 

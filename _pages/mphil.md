@@ -1,6 +1,6 @@
 ---
 title: MPhil Projects
-featured_image: /images/home.jpg
+featured_image: /images/me_rotated.jpg
 ---
 
 <h2>Curriculum learning for text simplfication</h2>

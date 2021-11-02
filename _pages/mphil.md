@@ -23,6 +23,6 @@ On device reading has predominantly taken the place of traditional formats. Such
 [2] <a href = "https://arxiv.org/pdf/1903.09848.pdf">Competence-based Curriculum Learning for Neural Machine Translation (Plantanious et al., 2019)</a> <br>
 [3] <a href="https://arxiv.org/pdf/2008.08612.pdf">A Survey on Text Simplification (Sikka and Mango, 2020)</a>
 
-[4] <a href="https://arxiv.org/pdf/1804.07329.pdf">Assessing Language Proficiency from Eye Movements in Reading (Berzak et al., 2018)</a>
-[5]  <a href="https://arxiv.org/pdf/2105.06354.pdf">Predicting Text Readability from Scrolling Interactions (Gooding et al., 2021)</a>
+[4] <a href="https://arxiv.org/pdf/1804.07329.pdf">Assessing Language Proficiency from Eye Movements in Reading (Berzak et al., 2018)</a><br>
+[5]  <a href="https://arxiv.org/pdf/2105.06354.pdf">Predicting Text Readability from Scrolling Interactions (Gooding et al., 2021)</a><br>
 [6] <a href="https://ai.googleblog.com">Google AI Blog (Gooding, 2021)</a>

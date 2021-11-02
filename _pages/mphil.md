@@ -5,9 +5,9 @@ featured_image: /images/home.jpg
 
 <h2>Curriculum learning for text simplfication</h2>
 
-Humans and animals learn much more effectively when the examples are not randomly presented but organized in a meaningful way. For instance, by introducing gradually more concepts, and increasingly more complex ones. [1] This has been referred to as <i>curriculum learning</i>. The use of a curriculum learning framework applied to neural machine translation has been shown to reduce training time and result in overall better performance [2]. 
+Humans and animals learn much more effectively when the examples are not randomly presented but organized in a meaningful way. For instance, by introducing gradually more concepts, and increasingly more complex ones. [1] This has been referred to as <i>curriculum learning</i>. The use of a curriculum learning framework applied to neural machine translation (NMT) has been shown to reduce training time and result in overall better performance [2]. 
 
-Text simplification is aimed at reducing the reading and grammatical complexity of text whilst retaining the meaning. Neural machine translation approaches have dominated the text simplification field over the past few years [3]. In this setting, the aim is to 'translate' complex text to simpler text using traditional translation architectures. In this project you will investigate whether curriculum learning can be used to improve an NMT system for text simplification. You will reimplement a neural translation system and experiment with how the ordering of training data impacts the model performance. 
+Text simplification is aimed at reducing the reading and grammatical complexity of text whilst retaining the meaning. NMT approaches have dominated the text simplification field over the past few years [3]. In this setting, the aim is to 'translate' complex text to simpler text using traditional translation architectures. In this project, you will investigate whether curriculum learning can be used to improve an NMT system for text simplification. You will reimplement a neural translation system and experiment with how the ordering of training data impacts the model performance. 
 
 
 ## Proficiency prediction from reading behaviour 

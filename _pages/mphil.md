@@ -8,7 +8,7 @@ featured_image: /images/home.jpg
 ## Curriculum learning for text simplification
 
 - <i>Proposer</i>: [Sian Gooding]({{ 'index.html' | site.relativeurl }})
-- <i>Supervisors</i>: Sian Gooding, Ted Briscoe
+- <i>Supervisors</i>: Sian Gooding, Zheng Yuan, Ted Briscoe
 - <i>Special Resources</i>: Access to an NLIP machine/server + Access to a GPU
 - <i>Areas</i>: Machine translation, Curriculum learning, Text simplification 
 

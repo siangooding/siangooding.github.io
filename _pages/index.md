@@ -13,7 +13,12 @@ My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on readabili
 
 ### Media
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="1" allowfullscreen></iframe>
+<iframe width="100" height="100" src="https://www.youtube.com/watch?v=JqQSXD74dIc&t=77s" frameborder="1" allowfullscreen></iframe>
+
+<iframe width="100" height="100" src="https://www.youtube.com/watch?v=6mBNeFpTI6Y&t=1731s" frameborder="1" allowfullscreen></iframe>
+
+<iframe width="100" height="100" src="https://www.youtube.com/watch?v=tDhja-I9Ym4&t=894s" frameborder="1" allowfullscreen></iframe>
+
 
 {% include media.html %}
 

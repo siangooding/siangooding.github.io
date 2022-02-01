@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Curriculum vitae
 description: My CV
 featured_image: /images/cactus_rotated.jpg
 ---

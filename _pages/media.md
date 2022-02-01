@@ -6,6 +6,6 @@ featured_image: /images/wall.jpg
 baseurl: https://siangooding.github.io
 ---
 
-<p style="color:white">.</p>
+<font size="6" face="arial" color="white">.</font>
 
 {% include media.html %}

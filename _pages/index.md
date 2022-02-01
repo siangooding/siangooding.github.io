@@ -13,14 +13,10 @@ My PhD [research]({{ 'research.html' | site.relativeurl }}) focuses on readabili
 
 ### Media
 
-{% include media.html %}
+{% include media_videos.html %}
 
 ### Selected Publications
 [See all publications]({{ 'research.html' | site.relativeurl }})
-{% include recent_publications.html %}
-### Selected Talks
-[See all talks]({{ 'research.html' | site.relativeurl }})
-{% include selected_talks.html %}
 
-
+{% include publication_tiles.html %}
 

@@ -9,8 +9,7 @@ My PhD research is on <i>text readability and simplification</i> -- the study of
 
 ## Publications
 
-For an update publication list see my <a href="https://scholar.google.com/citations?user=ml6kDi4AAAAJ&hl=en">Google Scholar</a>.
-
+For an up to date publication list see my <a href="https://scholar.google.com/citations?user=ml6kDi4AAAAJ&hl=en">Google Scholar</a>.
 {% include publications.html %}
 
 ## Invited Talks

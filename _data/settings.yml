@@ -14,6 +14,8 @@ menu_settings:
       url: '/'
     - title: 'Research'
       url: '/research'
+    - title: 'Media'
+      url: '/media'
     - title: 'CV'
       url: '/cv'
 

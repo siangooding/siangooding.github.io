@@ -6,4 +6,6 @@ featured_image: /images/wall.jpg
 baseurl: https://siangooding.github.io
 ---
 
+<p style="color:white">.</p>
+
 {% include media.html %}

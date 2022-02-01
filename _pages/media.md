@@ -6,6 +6,4 @@ featured_image: /images/wall.jpg
 baseurl: https://siangooding.github.io
 ---
 
-### Media
-
 {% include media.html %}

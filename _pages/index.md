@@ -15,6 +15,3 @@ Prior to joining Google, I studied for my PhD in Computer Science at the Univers
 I occasionally offer consultancy services to companies, in the areas of machine learning and natural language processing. If you are interested, feel free to get in touch.
 
 
-### Recent publications
-
-

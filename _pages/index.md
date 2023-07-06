@@ -2,7 +2,7 @@
 title: About Me
 subtitle: Research Scientist at Google working on Large Language Models 
 description: Research Scientist at Google working on Large Language Models
-featured_image: /images/pic_1_.jpg
+featured_image: /images/pic_1.jpg
 baseurl: https://siangooding.github.io
 ---
 {% include socials.html %}

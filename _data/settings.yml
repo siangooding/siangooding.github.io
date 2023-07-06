@@ -12,10 +12,6 @@ menu_settings:
   menu_items:
     - title: 'About Me'
       url: '/'
-    - title: 'Research'
-      url: '/research'
-    - title: 'Media'
-      url: '/media'
     - title: 'CV'
       url: '/cv'
 

@@ -1,13 +1,14 @@
 ---
-title: About Me
-subtitle: Senior Research Scientist at Google DeepMind working Autonomous Assistants
-description: Senior Research Scientist at Google DeepMind working on Autonomous Assistants
+title: Sian Gooding
+description: Senior Research Scientist at Google DeepMind, specialising in reward modelling, alignment, and multi-agent systems for large language models.
 featured_image: /images/me_rotated.jpg
 baseurl: https://siangooding.github.io
 ---
+
 {% include socials.html %}
 
+I am a Senior Research Scientist at Google DeepMind, where I lead research on novel approaches to reward modelling and alignment. My work focuses on large language models operating in multi-turn, long-horizon settings.
 
-I am a Senior Research Scientist at Google DeepMind working on Autonomous Assistants. 
+This includes exploring novel signals that emerge from LLM agents interacting with people and with one another — behavioural, structural, and dynamic properties of these interactions that can be leveraged to build better-aligned, more capable systems. I am particularly interested in the coordination and communication structures that arise in multi-agent settings, and what these reveal about how to scale alignment beyond the single-model case.
 
-My research is in understanding and designing large language models as open-ended collaborators—systems that support human reasoning, creativity, and decision-making in tasks that lack a clear ground truth, fixed objective function, or predefined solution space. This involves developing methods to evaluate not just model outputs, but the broader interaction dynamics: how models influence user trajectories, shape the space of possible actions, and steer outcomes over time. The work combines empirical evaluation, behavioural analysis, and system design to assess LLMs as epistemic agents, with particular attention to diversity, alignment, and semantic drift, in order to ensure they function as responsible and adaptive partners in complex tasks.
+Before DeepMind, I completed my PhD in Computer Science at the University of Cambridge, specialising in machine learning for language, as a Harding Distinguished Postgraduate Scholar.

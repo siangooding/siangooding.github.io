@@ -1,6 +1,6 @@
 ---
 title: Sian Gooding
-description: Senior Research Scientist at Google DeepMind, specialising in reward modelling, alignment, and multi-agent systems for large language models.
+subtitle: Senior Research Scientist at Google DeepMind, specialising in reward modelling, alignment, and multi-agent systems for large language models.
 featured_image: /images/me_rotated.jpg
 baseurl: https://siangooding.github.io
 ---
